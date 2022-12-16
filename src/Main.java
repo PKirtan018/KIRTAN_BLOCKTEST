@@ -30,10 +30,10 @@ public class Main {
 
         ArrayList<Orders> orders2=new ArrayList<>();
         Orders h=new Orders(6,"monday",item1);
-        Orders i=new Orders(7,"tuedsay",item2);
+        Orders i=new Orders(7,"tuesdsay",item2);
 
-        orders1.add(h);
-        orders1.add(i);
+        orders2.add(h);
+        orders2.add(i);
 
 a.printformat1();
     }
